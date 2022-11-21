@@ -1,2 +1,2 @@
 # Unity-Touch-Simulation-With-Mouse
-simulate touch from mouse input
+same functions names on Touch class but for mouse
